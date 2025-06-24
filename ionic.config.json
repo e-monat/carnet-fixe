@@ -1,0 +1,7 @@
+{
+  "name": "carnet-fixe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
